@@ -1,4 +1,4 @@
-# Simple DNS Manager For Linux
+# Simple DNS Changer For Linux
 
 ## [English](#english) | [فارسی](#فارسی)
 
@@ -27,15 +27,15 @@ DNS Manager is a command-line tool to manage and configure DNS servers on your n
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/dns-manager.git
-cd dns-manager
+git clone https://github.com/lvlohammat/dns-changer.git
+cd dns-changer
 ```
 
 2. Ensure you have the necessary permissions:
 
     
 ```sh
-sudo chmod +x dns_manager.py
+sudo chmod +x dns_changer.py
 
 ```
     
@@ -45,7 +45,7 @@ sudo chmod +x dns_manager.py
 Run the script:
 
 ```sh
-python3 dns_manager.py
+python3 dns_changer.py
 ```
 You will be prompted to choose your language (English or فارسی). After selecting the language, you can navigate through the menu to perform various DNS management tasks.
 
@@ -105,19 +105,19 @@ For any questions or feedback, please contact lvlohammat@gmail.com.
 مخزن را کلون کنید:
 
 ```sh
-git clone https://github.com/yourusername/dns-manager.git
-cd dns-manager
+git clone https://github.com/lvlohammat/dns-changer.git
+cd dns-changer
 ```
 اطمینان حاصل کنید که دسترسی‌های لازم را دارید:
 
 ```sh
-sudo chmod +x dns_manager.py
+sudo chmod +x dns_changer.py
 ```
 ## استفاده
 اسکریپت را اجرا کنید:
 
 ```sh
-python3 dns_manager.py
+python3 dns_changer.py
 ```
 زبان خود را انتخاب کنید (انگلیسی یا فارسی). پس از انتخاب زبان، می‌توانید از منو برای انجام وظایف مختلف مدیریت DNS استفاده کنید.
 
