@@ -63,26 +63,7 @@ You will be prompted to choose your language (English or فارسی). After sele
 - Begzar.ir
 - Radar.game
 - electrotm.org
-## Donations
 
-If this script has been helpful to you and you wish to make a donation, you can support through the following wallet addresses:
-
-### Bitcoin Wallet Address: 
-```
-bc1qn3q8ll4520l659pdkp4dqurdpf6xm64amxvhyd
-```
-
-### Toncoin Wallet Address: 
-```
-UQDV3QhEheVw4NTpkfB34Lj17PM1L_9vUXdjkmAeguOPBJjz
-```
-
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue on GitHub.
-
-## Contact
-For any questions or feedback, please contact lvlohammat@gmail.com.
 
 
 
@@ -136,20 +117,3 @@ python3 dns_changer.py
 - 403.online
 - Radar.game
 - electrotm.org
-## حمایت مالی
-اگر این اسکریپت برای شما مفید بوده و مایل به حمایت مالی هستید، می‌توانید از طریق آدرس کیف پول زیر حمایت کنید:
-
-### آدرس کیف پول بیت‌کوین: 
-```
-bc1qn3q8ll4520l659pdkp4dqurdpf6xm64amxvhyd
-```
-
-### آدرس کیف پول تون کوین کوین: 
-```
-UQDV3QhEheVw4NTpkfB34Lj17PM1L_9vUXdjkmAeguOPBJjz
-```
-
-
-## تماس
-برای هر گونه سوال یا بازخورد، لطفاً با lvlohammat@gmail.com تماس بگیرید.
-
